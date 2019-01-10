@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Jamie/.android/build-cache/4506b465b168ef58a1109527a6853cf090d5d30f/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Jamie/.android/build-cache/4506b465b168ef58a1109527a6853cf090d5d30f/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/Jamie/.android/build-cache/6431f4a4572a89e04306f75b39711f8b2e678191/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Jamie/.android/build-cache/4506b465b168ef58a1109527a6853cf090d5d30f/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/Jamie/.android/build-cache/6431f4a4572a89e04306f75b39711f8b2e678191/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Jamie/.android/build-cache/4506b465b168ef58a1109527a6853cf090d5d30f/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Jamie/.android/build-cache/4506b465b168ef58a1109527a6853cf090d5d30f/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/Jamie/.android/build-cache/6431f4a4572a89e04306f75b39711f8b2e678191/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Jamie/.android/build-cache/4506b465b168ef58a1109527a6853cf090d5d30f/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/Jamie/.android/build-cache/6431f4a4572a89e04306f75b39711f8b2e678191/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Jamie/.android/build-cache/4506b465b168ef58a1109527a6853cf090d5d30f/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Jamie/.android/build-cache/4506b465b168ef58a1109527a6853cf090d5d30f/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Jamie/AndroidStudioProjects/Spellaroo/vision/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Jamie/.android/build-cache/4506b465b168ef58a1109527a6853cf090d5d30f/output/res/color/abc_search_url_text.xml"
+    }
+]

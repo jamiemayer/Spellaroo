@@ -1,0 +1,2 @@
+D com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSource$FlashMode
+D com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSource$FocusMode
